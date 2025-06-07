@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041852863937",
+    "project_id": "playmate-dbeed",
+    "storage_bucket": "playmate-dbeed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041852863937:android:39c19dd5718a791f798b40",
+        "android_client_info": {
+          "package_name": "com.example.playmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtQdAyJu-T5rSGjcYO0OFo2OxuGlKxKHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
